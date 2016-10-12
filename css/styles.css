@@ -1,0 +1,26 @@
+h1.intro {
+  color: purple;
+  font-family: cursive;
+  font-size: 50px;
+}
+h2.intro {
+  color: purple;
+  font-family: cursive;
+  font-size: 40px;
+}
+h3 {
+  color: purple;
+  font-family: cursive;
+  font-size: 40px;
+}
+p.intro {
+  font-family: cursive;
+  font-size: 30px;
+}
+img.intro{
+}
+
+p{
+  font-family: cursive;
+  
+}
