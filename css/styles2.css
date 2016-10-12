@@ -1,0 +1,58 @@
+header {
+  border-bottom: 5px solid black;
+  text-align: center;
+  font-size: 40px
+}
+
+li {
+  display: inline-block;
+  width: 200px;
+
+}
+
+body {
+  font-family: cursive;
+}
+.headings {
+  color: red;
+}
+
+h1.intro {
+  color: purple;
+  font-size: 50px;
+}
+h2.intro {
+  color: purple;
+  font-size: 40px;
+}
+h3 {
+  color: purple;
+  font-size: 40px;
+}
+p.intro {
+  font-size: 30px;
+}
+img.intro{
+}
+
+p{
+  font-family: cursive;
+
+}
+ a:link {
+   color: black;
+ }
+
+a:visited {
+  color: black;
+}
+.boyclass {
+  color: cyan;
+
+}
+.headings {
+  color: red;
+}
+.moons {
+  color: pink;
+}
